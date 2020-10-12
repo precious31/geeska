@@ -1,1 +1,1 @@
-web: gunicorn helloworld_project:apps
+web: gunicorn helloworld_project:pages
