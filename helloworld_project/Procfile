@@ -1,1 +1,1 @@
-web: gunicorn helloworld_project.wsgi
+web: gunicorn helloworld_project:apps.wsgi
